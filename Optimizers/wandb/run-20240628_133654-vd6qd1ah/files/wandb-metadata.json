@@ -1,0 +1,43 @@
+{
+    "os": "macOS-13.4-arm64-arm-64bit",
+    "python": "3.12.1",
+    "heartbeatAt": "2024-06-28T17:36:54.622893",
+    "startedAt": "2024-06-28T17:36:54.043605",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Desktop/machine learning/Optimizers_Regularization/optimizers.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/sanskritiakhoury",
+    "host": "Sanskritis-Air",
+    "username": "sanskritiakhoury",
+    "executable": "/Library/Frameworks/Python.framework/Versions/3.12/bin/python3.12",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 600,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 600,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 11.202411651611328
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
